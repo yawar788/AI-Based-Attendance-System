@@ -1,0 +1,2 @@
+        Button(bg_img, image=self.photoimg4, cursor='hand2', command=self.student_detail).place(x=100, y=70, width=190, height=190)
+        Button(bg_img, text="Student's detail", cursor='hand2', font=('times new roman', 15, 'bold'), bg='black', fg='white', command=self.student_detail).place(x=100, y=220, width=190, height=40)
