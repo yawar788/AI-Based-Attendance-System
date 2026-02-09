@@ -1,10 +1,5 @@
 # 🎓 AI-Based Attendance
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Face%20Recognition-orange)
-![Status](https://img.shields.io/badge/Project-Final%20Year%20Project-success)
-
 An **AI-Based Attendance System** that automatically marks student attendance using **face recognition technology**.  
 This system eliminates manual attendance, prevents proxy attendance, and improves accuracy and efficiency.
 
@@ -13,7 +8,7 @@ This system eliminates manual attendance, prevents proxy attendance, and improve
 ## 👤 Student Information
 - **Name:** Yawar Abbas    
 - **Domain:** Artificial Intelligence / Computer Vision  
-- **Repository:** Private  
+- **Repository:** Public  
 
 ---
 
@@ -124,7 +119,7 @@ attendance.csv
 
 * No cloud storage
 * Local data processing
-* Private repository access
+* Public repository access
 
 ---
 
