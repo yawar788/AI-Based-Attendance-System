@@ -138,5 +138,3 @@ attendance.csv
 This project is developed for **academic and educational purposes only**.
 
 ---
-
-````
